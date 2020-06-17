@@ -1,0 +1,11 @@
+> init
+<<<
+> commit "rajavi"
+No changes added to the commit.
+<<<
+> commit "mishra"
+No changes added to the commit.
+<<<
+> status rajavi
+Incorrect operands
+<<<

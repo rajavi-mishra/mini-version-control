@@ -1,0 +1,11 @@
+#checkout
+> init
+<<<
+> branch other
+<<<
+> checkout master
+No need to checkout the current branch.
+<<<
+> checkout rajavi
+No such branch exists.
+<<<

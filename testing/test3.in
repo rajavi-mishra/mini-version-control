@@ -1,0 +1,6 @@
+#find
+> init
+<<<
+> find "Rajavi"
+Found no commit with that message.
+<<<

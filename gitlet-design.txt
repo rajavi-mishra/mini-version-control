@@ -1,0 +1,29 @@
+Gitlet Design Document
+----------------------
+
+
+Classes and Data Structures
+---------------------------
+Classes
+ - Commit
+ - Blob
+ - Machine
+ - Main
+
+
+Algorithms
+----------
+ - Compute Unique ID
+ - HashMaps
+ - 13 Commands 
+
+Persistence
+-----------
+Folders
+ - Commit - write commit objects and name them by the Commit unique ID
+ - Blobs - write blob objects and name them by Blob unique ID
+ - Staging
+   - Addition - Files marked for addition
+   - Deletion - Files marked for deletion
+ - Branches - Files names by the branch name and containing the commit object they point to
+ - Head - named by the branch name and containing the commit object they point to

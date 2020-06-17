@@ -1,0 +1,8 @@
+#commit
+> init
+<<<
+> branch other
+<<<
+> commit "no change"
+No changes added to the commit.
+<<<

@@ -1,0 +1,19 @@
+#remove branch
+> init
+<<<
+> branch other
+<<<
+> branch other
+A branch with that name already exists.
+<<<
+> rm-branch rajavi
+A branch with that name does not exist.
+<<<
+> rm-branch master
+Cannot remove the current branch.
+<<<
+> checkout other
+<<<
+> rm-branch other
+Cannot remove the current branch.
+<<<

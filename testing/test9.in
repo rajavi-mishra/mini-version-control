@@ -1,0 +1,12 @@
+#branch and checkout
+> init
+<<<
+> branch other
+<<<
+> branch other
+A branch with that name already exists.
+<<<
+> branch rajavi
+<<<
+> checkout rajavi
+<<<

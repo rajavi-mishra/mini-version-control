@@ -1,0 +1,9 @@
+#commit
+> init
+<<<
+> add rajavi.txt
+File does not exist.
+<<<
+> commit "Rajavi"
+No changes added to the commit.
+<<<

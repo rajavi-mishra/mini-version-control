@@ -1,0 +1,6 @@
+#find
+> init
+<<<
+> find "Rajavi" "Mishra"
+Incorrect operands.
+<<<

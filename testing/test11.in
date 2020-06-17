@@ -1,0 +1,22 @@
+#status
+> init
+<<<
+> reset 98258y98y5985yy85y842y5894y539y5983y59834y59834y5934y5983y5983y9584y98y59834y59834y5894y59384y58934y5
+No commit with that id exists.
+<<<
+> branch other
+<<<
+> status
+=== Branches ===
+*master
+other
+
+=== Staged Files ===
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
